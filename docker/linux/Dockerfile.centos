@@ -34,6 +34,11 @@ RUN yum install -y \
     devtoolset-7-gcc \
     devtoolset-7-gcc-c++ \
     devtoolset-7-gcc-gfortran \
+    gmp-devel \
+    mpfr-devel \
+    boost-devel \
+    eigen3-devel \
+    swig \
     cmake3 \
     curl \
     git222 \
